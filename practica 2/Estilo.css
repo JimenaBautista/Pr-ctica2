@@ -1,0 +1,24 @@
+body {
+    background-color: #100f11; /* Cambia esto al color de fondo que desees */
+    text-align: center;
+}
+ 
+img {
+    width: 300px; /* Establece el ancho deseado para las imágenes */
+    height: 300px; /* Establece la altura deseada para las imágenes */
+    margin: 10px; /* Añade margen entre las imágenes */
+    background-color: #fff; /* Cambia esto al color de fondo que desees para las imágenes */
+}
+
+h1 {
+    color: #fdfafa; /* Cambia esto al color de texto deseado para el encabezado */
+    font-size: 100px;
+}
+h6{
+    color: rgb(250, 247, 247);
+    font-size: 50px;
+}
+p{
+    color: rgb(251, 249, 249);
+    font-size: 50px;
+}
